@@ -1,0 +1,3 @@
+from .appointment_list import AppointmentListView
+from .patient_registration import PatientRegistrationView
+from .open_ai import BasicGenerationView
